@@ -1,0 +1,11 @@
+{
+  "name": "brave-new-world",
+  "type": "text",
+  "has_page_numbers": false,
+  "mode": {
+    "HTML": "html",
+    "CSS": "css",
+    "JS": "js",
+    "HEAD": "html"
+  }
+}
