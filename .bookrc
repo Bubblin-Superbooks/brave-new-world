@@ -1,11 +1,12 @@
 {
-  "name": "brave-new-world",
+  "name": "Brave New World",
   "type": "text",
-  "has_page_numbers": false,
+  "has_page_numbers": true,
   "mode": {
     "HTML": "html",
     "CSS": "css",
     "JS": "js",
     "HEAD": "html"
-  }
+  },
+  "book_id": 592
 }

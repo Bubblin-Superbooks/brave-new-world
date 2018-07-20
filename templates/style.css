@@ -131,3 +131,7 @@ blockquote:after {
     margin-left: 0.5vw;
     vertical-align: -0.9vw;
 }
+
+.right {
+  float: right;
+}
